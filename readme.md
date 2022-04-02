@@ -59,13 +59,13 @@ python main.py --dataset=kosarak --verbose --mode=rappor --k=0.02  --process=14 
 
 ## Citation format
 
-Z. Wang, Y. Zhu, D. Wang, and Z. Han, "FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining," In *Proceeding of IEEE International Conference on Computer Communications (INFOCOM)*, 2022.
+Z. Wang, Y. Zhu, D. Wang, and Z. Han, "FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining," In *Proceedings of IEEE International Conference on Computer Communications (INFOCOM)*, 2022.
 
 ```
 @inproceedings{wang2022fedfpm,
   title={FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining},
   author={Wang, Zibo and Zhu, Yifei and Wang, Dan and Han, Zhu},
-  booktitle={Proceeding of IEEE International Conference on Computer Communications (INFOCOM)},
+  booktitle={Proceedings of IEEE International Conference on Computer Communications (INFOCOM)},
   year={2022}
 }
 ```
